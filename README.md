@@ -62,3 +62,15 @@ items = new List<Item>
     new Item("Conjured Mana Cake") {SellIn = 3, Quality = 6}
 };
 ```
+---
+
+## ToDo
+
+1. Fork this repository to your GitHub account.
+2. Open solution file in Visual Studio.
+3. Open file `Inventory.cs`.
+4. Implement the method `UpdateQuality()` so that all requirements are met.
+5. Do not change other existing classes.
+6. Run with `CTRL+F5` to test it.
+7. If all tests are passed, commit & sync your repository.
+8. Send a link to your repository for Lab Master (in #slack) to check it.
