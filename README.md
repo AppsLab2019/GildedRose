@@ -1,6 +1,4 @@
-# GildedRose
 (100 XP) Gilded rose - Check your knowledge of conditions, loops, properties,...
-
 # Gilded Rose Requirements Specification
 
 ![Gilded Rose](https://miro.medium.com/max/800/1*NoIcn06ksMOa-Ydv1UvYEw.jpeg)
